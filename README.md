@@ -14,7 +14,7 @@ forecasting, anomaly detection, and operational optimization.
 |---|---|
 | [Aliquindoi](https://github.com/LauraCGuzman/Aliquindoi) | Automates optical characterization data processing · 1 day → 1 min |
 | *(coming soon)* Anomaly detection · Spanish grid | Time series analysis on REE/e·sios data |
-| *(coming soon)* Vigía de Empleo | Automated job monitoring pipeline with LLM filtering |
+| [Vigía de Empleo](https://github.com/LauraCGuzman/vigia-empleo) | Automated weekly job alerts with LLM filtering · LinkedIn + Indeed → email digest · 🇪🇸 Spain-focused |
 
 ---
 
