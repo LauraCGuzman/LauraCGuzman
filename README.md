@@ -13,7 +13,7 @@ forecasting, anomaly detection, and operational optimization.
 | [optical-data-exporter](https://github.com/LauraCGuzman/optical-data-exporter) | Reusable exporter for optical-lab measurement data · clean ETL pipeline |
 | [Vigía de Empleo](https://github.com/LauraCGuzman/vigia-empleo) | Automated weekly job alerts with LLM scoring · JobSpy → email digest · 🇪🇸 Spain-focused |
 | [Hormuz Energy Monitor](https://github.com/LauraCGuzman/energy-ormuz-monitor) | Live energy-security dashboard · Strait of Hormuz flows, Brent/SPR, EU gas reserves & import mix · Streamlit + 5 public APIs · Streamlit link: https://monitor-energia-crisis-ormuz.streamlit.app |
-| *(coming soon)* Anomaly detection · Spanish grid | Time-series analysis on REE / e·sios data |
+| [Electricity demand forecasting · Spanish grid](https://github.com/LauraCGuzman/Proyecto_REE) | Time-series analysis on REE / e·sios data |
 
 ---
 ### 🛠️ Stack
