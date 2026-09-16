@@ -4,6 +4,7 @@ Analytical engineer with 4 years processing real-world sensor data at DLR
 Currently transitioning into Data Science with a focus on energy systems — 
 forecasting, anomaly detection, and operational optimization.
 
+📄 [Full CV (Spanish)](https://www.getmanfred.com/es/candidaturas/2e09886c-0759-4fb3-bfa6-1742eb90afe9)
 
 ---
 ### 🔧 What's here
